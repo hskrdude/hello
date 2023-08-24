@@ -12,5 +12,10 @@ Date: 8/24/2023
 int main (int argc, char **argv) {
     printf ("Evan Howell!\n");
     printf ("Computer Science\n");
+
+    printf ("Luciano Carvalho\n");
+    printf ("Computer Science\n");
+
+    
     return 0;
 }
